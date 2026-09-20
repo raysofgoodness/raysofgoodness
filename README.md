@@ -13,15 +13,6 @@
 
 I'm a **full-stack product engineer with a frontend-first foundation** and 5+ years of experience shipping React and Next.js applications end to end. I connect polished interfaces with reliable APIs, data models, authentication, and production delivery.
 
-```ts
-const illia = {
-  focus: ["full-stack product development", "data-heavy interfaces", "automation"],
-  frontend: ["React", "Next.js", "TypeScript", "application architecture"],
-  backend: ["Node.js", "PostgreSQL", "Supabase", "REST APIs", "authentication"],
-  principle: "make complex workflows feel simple",
-};
-```
-
 ## Selected impact
 
 | 01 — Analytics platform | 02 — Performance | 03 — Product delivery |
