@@ -18,7 +18,7 @@ I'm a **full-stack product engineer with a frontend-first foundation** and 5+ ye
 | 01 — Analytics platform | 02 — Performance | 03 — Product delivery |
 |---|---|---|
 | Architected and shipped an internal analytics platform for a **20-person team**. | Raised Lighthouse Performance from **40–50 to 96–99** while modernizing a legacy frontend. | Delivered a production MVP independently in **one month**, then expanded it with exports, domain management, and JWT auth. |
-| Built a real-time pipeline handling **4,000–5,000+ events daily** and millions to date. | Replaced fragile jQuery interactions with maintainable modern JavaScript. | Owned architecture, UI, integration, and production delivery end to end. |
+| Built a real-time pipeline handling **4,000–5,000+ events daily** and millions to date. | Replaced fragile jQuery interactions with maintainable modern JavaScript. | Owned architecture, UI, integration, and production delivery end-to-end. |
 
 ## Toolbox
 
@@ -58,9 +58,6 @@ If you're working on a product with complex flows, a data-heavy UI, or an app th
 <p>
   <a href="mailto:iliaskoropad@gmail.com"><b>Email me</b></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/iskoropad/" target="_blank"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/iskoropad/"><b>LinkedIn</b></a>
 </p>
 
----
-
-<sub>Designed as a quiet, technical profile: high signal and no badge wall.</sub>
