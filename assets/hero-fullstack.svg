@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+  <title id="title">Full-Stack Product Engineer</title>
+  <desc id="desc">Professional profile banner outlining full-stack engineering skills.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#21132f"/>
+      <stop offset="0.54" stop-color="#32204a"/>
+      <stop offset="1" stop-color="#492947"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffbf78"/>
+      <stop offset="1" stop-color="#f196db"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="72%" cy="24%" r="66%">
+      <stop offset="0" stop-color="#ff9dcb" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#ff9dcb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#efd7f7" stroke-opacity=".06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="460" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="460" rx="28" fill="url(#grid)"/>
+  <circle cx="970" cy="145" r="300" fill="url(#glow)"/>
+  <path d="M48 65h105" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="48" y="98" fill="#ffbf78" font-size="16" font-weight="700" letter-spacing="2.2">FULL-STACK PRODUCT ENGINEER</text>
+    <text x="48" y="151" fill="#fff7fe" font-size="35" font-weight="760">I turn complex product ideas</text>
+    <text x="48" y="194" fill="#fff7fe" font-size="35" font-weight="760">into reliable web applications.</text>
+    <text x="48" y="228" fill="#decce7" font-size="16">5+ years of end-to-end delivery: interface, API, data and performance.</text>
+
+    <g transform="translate(48 271)">
+      <rect width="365" height="137" rx="16" fill="#27193a" fill-opacity=".72" stroke="#ffbf78" stroke-opacity=".27"/>
+      <text x="22" y="34" fill="#ffce93" font-size="14" font-weight="700">01 / FRONTEND</text>
+      <text x="22" y="65" fill="#fff7fe" font-size="17" font-weight="700">React · Next.js · TypeScript</text>
+      <text x="22" y="94" fill="#d9c5e4" font-size="14">TanStack Query · Redux · Zustand</text>
+      <text x="22" y="117" fill="#d9c5e4" font-size="14">HTML · CSS/SCSS · Performance</text>
+    </g>
+
+    <g transform="translate(457 271)">
+      <rect width="365" height="137" rx="16" fill="#27193a" fill-opacity=".72" stroke="#f196db" stroke-opacity=".28"/>
+      <text x="22" y="34" fill="#f7b9e5" font-size="14" font-weight="700">02 / BACKEND &amp; DATA</text>
+      <text x="22" y="65" fill="#fff7fe" font-size="17" font-weight="700">Node.js · PostgreSQL · Supabase</text>
+      <text x="22" y="94" fill="#d9c5e4" font-size="14">SQL · REST APIs · Authentication</text>
+      <text x="22" y="117" fill="#d9c5e4" font-size="14">Real-time data · Integrations</text>
+    </g>
+
+    <g transform="translate(866 271)">
+      <rect width="365" height="137" rx="16" fill="#27193a" fill-opacity=".72" stroke="#ffbf78" stroke-opacity=".27"/>
+      <text x="22" y="34" fill="#ffce93" font-size="14" font-weight="700">03 / DELIVERY</text>
+      <text x="22" y="65" fill="#fff7fe" font-size="17" font-weight="700">Architecture · CI/CD · Cloudflare</text>
+      <text x="22" y="94" fill="#d9c5e4" font-size="14">Git · Docker · Vite · Webpack</text>
+      <text x="22" y="117" fill="#d9c5e4" font-size="14">Figma to production · Ownership</text>
+    </g>
+  </g>
+</svg>
