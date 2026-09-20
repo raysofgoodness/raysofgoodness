@@ -58,7 +58,7 @@ If you're working on a product with complex flows, a data-heavy UI, or an app th
 <p>
   <a href="mailto:iliaskoropad@gmail.com"><b>Email me</b></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/iskoropad/"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/iskoropad/" target="_blank"><b>LinkedIn</b></a>
 </p>
 
 ---
